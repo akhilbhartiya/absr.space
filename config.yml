@@ -1,0 +1,146 @@
+baseURL: "https://absr.space/"
+title: Akhil Bhartiya
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Akhil Bhartiya
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio]
+  # author: ["Me", "You"] # multiple authors
+  images: [~/main/docs/personal/profile.jpg]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Akhil Bhartiya"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Akhil Bhartiya
+    subtitle: "An early stage researcher with a passion for physics, mathematics, and computers."
+    imageUrl: "profile.jpg"
+    imageWidth: 400
+    imageHeight: 400
+    imageTitle: my image
+      #    buttons:
+      #      - name: Posts
+      #        url: posts
+      #      - name: About Me
+      #        url: about
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello there..."
+    Content: "Welcome to my homepage! I am an early stage physicist with a passion for physics, mathematics, and computers."
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/1729absr/"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-8734-1606"
+    - name: github
+      url: "https://github.com/1729absr"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: Recommendations
+      name: Recommendations
+      url: /recommendations/
+      weight: 30
+    - identifier: About Me
+      name: About Me
+      url: /about/
+      weight: 40
+    - identifier: Contact
+      name: Contact Me
+      url: /contact/
+      weight: 50
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

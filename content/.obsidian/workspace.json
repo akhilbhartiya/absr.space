@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "bea5b9adefadee7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "44241c912a92b53e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b86171e57a64885",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/exoplanet_detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dd460a6f6959a7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "652e37df598907d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6898a6431d4ee6a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2af66fa2d90922d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7646c3881bc2e39c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8060c81c6d474aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdbf8e8bc6b9d1c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc4a4f2ef11efb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/exoplanet_detection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98a8ae5fb1613f31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/exoplanet_detection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5df43749c5a2e5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fc2f8a597f78132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/exoplanet_detection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6b86171e57a64885",
+  "lastOpenFiles": [
+    "posts/first1.md",
+    "posts/exoplanet_detection.md",
+    "posts/first.md",
+    "recommendations.md",
+    "contact.md",
+    "about.md",
+    "search.md"
+  ]
+}
