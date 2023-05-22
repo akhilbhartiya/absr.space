@@ -10,9 +10,8 @@ draft: false
 * The Principles of Quantum Mechanics, P.A.M. Dirac
 * The Theory of Heat Radiation, Max Planck
 * The Road to Reality, Roger Penrose
-* Surely You’re Joking, Mr. Feynman!, Richard Feynman
-    - "But we must consider Feynman in all his manifestations - a brilliant scientist, but also a narcissist whose sexist behavior did undeniable harm."
-    ~ Caltech Letters: [Feynman, Harassment, and the Culture of Science: October 08, 2019](https://caltechletters.org/viewpoints/feynman-harassment-science#1). If you are reading this book, you should also read the article.
+* Surely You’re Joking, Mr. Feynman!, Richard Feynman.
+    - _If you are reading this book, you should also read the Caltech Letters article: [Feynman, Harassment, and the Culture of Science](https://caltechletters.org/viewpoints/feynman-harassment-science#1)._
 * Nonlinear dynamics and Chaos, Steven Strogatz
 * Lectures and Problems: A Gift to Young Mathematicians, V. I. Arnold
 
@@ -21,3 +20,9 @@ draft: false
 * [What does it take to solve the measurement problem?, Jonte R. Hance, and Sabine Hossenfelder](https://arxiv.org/pdf/2206.10445.pdf)
 
 ## To Watch
+### Movies
+* The Intern
+* The Terminal
+* Forrest Gump
+* Court
+* Masaan

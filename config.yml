@@ -1,4 +1,4 @@
-baseURL: "https://delightful-sprinkles-c92349.netlify.app"
+baseURL: "https://absr.space"
 title: Akhil Bhartiya
 paginate: 5
 theme: PaperMod
@@ -20,7 +20,7 @@ params:
   description: "ExampleSite description"
   keywords: [Blog, Portfolio]
   # author: ["Me", "You"] # multiple authors
-  images: [~/main/docs/personal/profile.jpg]
+  images: [~/main/docs/personal/profile.png]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -60,9 +60,9 @@ params:
     enabled: true # needs to be explicitly set
     title: Akhil Bhartiya
     subtitle: "An early stage researcher with a passion for physics, mathematics, and computers."
-    imageUrl: "profile.jpg"
-    imageWidth: 400
-    imageHeight: 400
+    imageUrl: "profile.png"
+    imageWidth: 300
+    imageHeight: 300
     imageTitle: my image
       #    buttons:
       #      - name: Posts

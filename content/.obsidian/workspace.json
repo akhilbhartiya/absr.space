@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44241c912a92b53e",
+        "id": "756a6e05328aa188",
         "type": "tabs",
         "children": [
           {
-            "id": "6b86171e57a64885",
+            "id": "a1765e94ae5f3413",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b86171e57a64885",
+  "active": "a1765e94ae5f3413",
   "lastOpenFiles": [
-    "posts/first1.md",
+    "about.md",
     "posts/exoplanet_detection.md",
+    "().md",
+    "posts/first1.md",
     "posts/first.md",
     "recommendations.md",
     "contact.md",
-    "about.md",
     "search.md"
   ]
 }

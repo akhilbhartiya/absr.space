@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Akhil Bhartiya</title>
+    <link>https://absr.space/posts/</link>
+    <description>Recent content in Posts on Akhil Bhartiya</description>
+    <image>
+      <title>Akhil Bhartiya</title>
+      <url>https://absr.space/~/main/docs/personal/profile.png</url>
+      <link>https://absr.space/~/main/docs/personal/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2023 17:57:13 +0530</lastBuildDate><atom:link href="https://absr.space/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection and estimation of orbital parameters of an exoplanet</title>
+      <link>https://absr.space/posts/exoplanet_detection/</link>
+      <pubDate>Sun, 07 May 2023 17:57:13 +0530</pubDate>
+      
+      <guid>https://absr.space/posts/exoplanet_detection/</guid>
+      <description>Detecting exoplanets can be a challenging task because planets do not emit their own have nuclear energy sources. As a result, astronomers often rely on heavier and brighter stars to detect the presence of planets. Using telescopic data, astronomers analyze changes in the brightness of a star when a planet passes in front of it (known as a transit) or in frequency due to the Doppler effect caused by the star&amp;rsquo;s wobble around a common center of mass, or Barycenter, indicating the presence of one or more planets.</description>
+    </item>
+    
+  </channel>
+</rss>

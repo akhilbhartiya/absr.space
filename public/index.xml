@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Akhil Bhartiya</title>
+    <link>https://absr.space/</link>
+    <description>Recent content on Akhil Bhartiya</description>
+    <image>
+      <title>Akhil Bhartiya</title>
+      <url>https://absr.space/~/main/docs/personal/profile.png</url>
+      <link>https://absr.space/~/main/docs/personal/profile.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 07 May 2023 17:57:13 +0530</lastBuildDate><atom:link href="https://absr.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection and estimation of orbital parameters of an exoplanet</title>
+      <link>https://absr.space/posts/exoplanet_detection/</link>
+      <pubDate>Sun, 07 May 2023 17:57:13 +0530</pubDate>
+      
+      <guid>https://absr.space/posts/exoplanet_detection/</guid>
+      <description>Detecting exoplanets can be a challenging task because planets do not emit their own have nuclear energy sources. As a result, astronomers often rely on heavier and brighter stars to detect the presence of planets. Using telescopic data, astronomers analyze changes in the brightness of a star when a planet passes in front of it (known as a transit) or in frequency due to the Doppler effect caused by the star&amp;rsquo;s wobble around a common center of mass, or Barycenter, indicating the presence of one or more planets.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://absr.space/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://absr.space/about/</guid>
+      <description>I developed a passion for physics in high school when I learned about the relationship between electricity and magnetic fields. My love for mathematics also began early on, especially when working with infinite series. More recently, I discovered my interest in computer programming while pursuing a Master&amp;rsquo;s degree in computational physics and quantum mechanics.
+My Masters thesis in physics focused on (auto-)correlation analysis of the wave function of interacting particles in a quartic double well, which helped me improve my numerical simulation and time-series analysis skills.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://absr.space/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://absr.space/contact/</guid>
+      <description>I do not own any social media accounts (except LinkedIn, which I open rarely). I prefer email or phone calls. While I am uncomfortable sharing my phone number, I am happy to provide my email address.
+—
+Email: 1729absr@gmail.com
+—</description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>https://absr.space/recommendations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://absr.space/recommendations/</guid>
+      <description>To Read Books (some of which I am still reading…) Measurement, Paul Lockhart The Principles of Quantum Mechanics, P.A.M. Dirac The Theory of Heat Radiation, Max Planck The Road to Reality, Roger Penrose Surely You’re Joking, Mr. Feynman!, Richard Feynman. If you are reading this book, you should also read the Caltech Letters article: Feynman, Harassment, and the Culture of Science. Nonlinear dynamics and Chaos, Steven Strogatz Lectures and Problems: A Gift to Young Mathematicians, V.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
