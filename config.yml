@@ -77,7 +77,7 @@ params:
 
   socialIcons:
     - name: email
-      url: "1729absr@gmail.com"
+      url: "mailto://1729absr@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/1729absr/"
     - name: orcid
