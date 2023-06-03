@@ -76,6 +76,8 @@ params:
     Content: "Welcome to my homepage! I am an early stage physicist with a passion for physics, mathematics, and computers."
 
   socialIcons:
+    - name: email
+      url: "1729absr@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/1729absr/"
     - name: orcid
@@ -124,10 +126,7 @@ menu:
       name: About Me
       url: /about/
       weight: 40
-    - identifier: Contact
-      name: Contact Me
-      url: /contact/
-      weight: 50
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
