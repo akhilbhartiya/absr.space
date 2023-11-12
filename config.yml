@@ -59,7 +59,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Akhil Bhartiya
-    subtitle: "An early stage researcher with a passion for physics, mathematics, and computers."
+    subtitle: "Early Stage Researcher
+    (Interests: Physics, Mathematics, Computation)"
     imageUrl: "profile.jpg"
     imageWidth: 300
     imageHeight: 300
