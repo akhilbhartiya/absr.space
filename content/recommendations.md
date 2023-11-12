@@ -4,8 +4,10 @@ url: "/recommendations/"
 draft: false 
 ---
 
+**Disclaimer :** My recommendation of a book or paper doesn't necessarily mean that I've read them completely; it's actually quite unlikely.
+
 ## To Read
-### Books (some of which I am still reading…)
+### Books
 * Measurement, Paul Lockhart
 * The Principles of Quantum Mechanics, P.A.M. Dirac
 * The Theory of Heat Radiation, Max Planck
