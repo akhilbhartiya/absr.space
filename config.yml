@@ -20,7 +20,7 @@ params:
   description: "ExampleSite description"
   keywords: [Blog, Portfolio]
   # author: ["Me", "You"] # multiple authors
-  images: [~/main/docs/personal/profile.jpg]
+  images: [profile.jpg]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -59,8 +59,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Akhil Bhartiya
-    subtitle: "Early Stage Researcher
-    (Interests: Physics, Mathematics, Computation)"
+    subtitle: "Early Stage Researcher"
     imageUrl: "profile.jpg"
     imageWidth: 300
     imageHeight: 300
