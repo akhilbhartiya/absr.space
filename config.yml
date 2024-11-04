@@ -77,13 +77,13 @@ params:
 
   socialIcons:
     - name: email
-      url: "mailto://1729absr@gmail.com"
+      url: "mailto://akhil.bhartiya@jku.at"
     - name: linkedin
-      url: "https://www.linkedin.com/in/1729absr/"
+      url: "https://www.linkedin.com/in/bhartiya/"
     - name: orcid
       url: "https://orcid.org/0000-0001-8734-1606"
     - name: github
-      url: "https://github.com/1729absr"
+      url: "https://github.com/akhilbhartiya"
 
   analytics:
     google:
@@ -110,6 +110,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Home
+      name: Home
+      url: "https://absr.space"
+      weight: 20
     - identifier: Posts
       name: Posts
       url: /posts/
