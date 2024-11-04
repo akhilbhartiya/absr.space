@@ -1,6 +1,6 @@
 ---
-title: "Recommendations"
-url: "/recommendations/"
+title: "My Likes"
+url: "/likes/"
 draft: false 
 ---
 

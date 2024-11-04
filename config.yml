@@ -118,9 +118,9 @@ menu:
       name: Search
       url: /search/
       weight: 20
-    - identifier: Recommendations
-      name: Recommendations
-      url: /recommendations/
+    - identifier: My Likes
+      name: My Likes
+      url: /likes/
       weight: 30
     - identifier: About Me
       name: About Me
